@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+.train-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#clock {
+    font-family: 'Cinzel', serif;
+}
+
+.text-center {
+    font-family: 'Cinzel', serif;
+}
+
+.card-header {
+    font-family: 'Cinzel', serif;
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    background-color: grey;
+    color: white;
+    text-align: center;
+  }
